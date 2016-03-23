@@ -8,4 +8,4 @@ Wireframes are currently hosted online as well. Visit:
 
 	http://178.62.24.43
 	
-Please get in touch with @sauliuz for username and password.
+Please get in touch with [@sauliuz](https://github.com/sauliuz) for username and password.
